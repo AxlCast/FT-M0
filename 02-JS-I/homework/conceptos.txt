@@ -1,0 +1,11 @@
+variables : Es una forma de almacenar el valor de algo para usar mas tarde.
+
+strings : Es un tipo de dato que contiene solamente texto.
+
+funciones : Un bloque de codigo que puedes reutilizar.
+argumentos : Son los valores que se le pasan a la funcion cuando esta es invocada.
+return : Para Devolver un valor.
+
+Declaraciones if : Es un control de flujo, que sirve para tomar deciciones.
+
+Booleanos : Solo tiene dos posibles valores, True o False.
