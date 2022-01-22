@@ -1,0 +1,7 @@
+for :  Es un bucle que se utiliza para hacer cosas repetitivas.
+
+&& : Es verdadero solo si los 2 operandos son true.
+
+|| : Devuelve true si una o AMBAS son true, devuelve false si ambas son false.
+
+! : Devolvera el valor booleano opuesto de lo que pasa.
